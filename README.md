@@ -20,8 +20,8 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 ```
-Developed By: KARTHIKEYAN R
-Reg.NO: 212222240046
+Developed By: HARI PRASATH S       
+Reg.NO: 212222240034
 ```
 
 ```python
